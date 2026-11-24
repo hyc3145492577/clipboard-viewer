@@ -1,0 +1,20 @@
+# 构建产物
+dist/
+*.exe
+*.res
+*.o
+*.obj
+
+# 编辑器 / IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# 临时文件
+*.log
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
